@@ -23,4 +23,4 @@ A simple web application to shorten long URLs, built with **Flask** and **MySQL*
 
 ```bash
 ├── index.html          # Frontend HTML form
-├── Url_shorten.py      # Flask app for URL shortening and redirection
+├── Url_shorten.py      # Flask app for URL shortening 
